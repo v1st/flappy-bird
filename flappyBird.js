@@ -1,3 +1,5 @@
+// tutorial https://www.youtube.com/watch?v=L07i4g-zhDA&feature=youtu.be
+
 var cvs = document.getElementById("canvas");
 var ctx = cvs.getContext("2d");
 
